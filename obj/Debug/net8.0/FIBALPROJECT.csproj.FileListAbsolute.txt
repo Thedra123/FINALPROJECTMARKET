@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\bin\Debug\net8.0\FIBALPROJECT.exe
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\bin\Debug\net8.0\FIBALPROJECT.deps.json
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\bin\Debug\net8.0\FIBALPROJECT.runtimeconfig.json
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\bin\Debug\net8.0\FIBALPROJECT.dll
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\bin\Debug\net8.0\FIBALPROJECT.pdb
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.AssemblyInfo.cs
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.dll
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\refint\FIBALPROJECT.dll
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.pdb
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\FIBALPROJECT.genruntimeconfig.cache
+C:\Users\User\source\repos\FIBALPROJECT\FIBALPROJECT\obj\Debug\net8.0\ref\FIBALPROJECT.dll
